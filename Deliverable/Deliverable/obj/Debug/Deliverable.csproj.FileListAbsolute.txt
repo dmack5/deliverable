@@ -1,0 +1,2 @@
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Deliverable\obj\Debug\Deliverable.csprojAssemblyReference.cache
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Deliverable\obj\Debug\Deliverable.csproj.CoreCompileInputs.cache

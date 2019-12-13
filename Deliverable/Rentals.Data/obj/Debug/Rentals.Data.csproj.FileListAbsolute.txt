@@ -1,0 +1,11 @@
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\Rentals.Data.dll.config
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\Rentals.Data.dll
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\Rentals.Data.pdb
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\EntityFramework.dll
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\EntityFramework.xml
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\obj\Debug\Rentals.Data.csproj.CoreCompileInputs.cache
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\obj\Debug\Rentals.Data.csproj.CopyComplete
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\obj\Debug\Rentals.Data.dll
+C:\Users\mperron7\Documents\GitHub\2019-sep-exercises-madisonp20\Deliverable\Rentals.Data\obj\Debug\Rentals.Data.pdb
